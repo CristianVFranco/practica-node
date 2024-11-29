@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/CristianVFranco/practica-node/issues"
   },
-  "homepage": "https://github.com/CristianVFranco/practica-node#readme"
+  "homepage": "https://github.com/CristianVFranco/practica-node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
